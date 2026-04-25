@@ -28,10 +28,8 @@ The model successfully identifies at-risk appointments with the following perfor
 1. Clone the repository and ensure your environment has the required dependencies installed:
    ```bash
    pip install pandas numpy scikit-learn matplotlib
-   
 
 2. Ensure the historical_appointments.csv dataset is located in the same root directory as the script.
-   
    
 3. Execute the pipeline:
    ```
