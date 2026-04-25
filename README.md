@@ -34,4 +34,5 @@ The model successfully identifies at-risk appointments with the following perfor
    
    
 3. Execute the pipeline:
-   ```python train_model.py
+   ```
+   python train_model.py
